@@ -1,1 +1,3 @@
 <svg/onload=alert(1);                  use when html is FILTERD OUT not in sanitization
+
+use svg vector whem text is displayed as plain text most probably in html encoding
